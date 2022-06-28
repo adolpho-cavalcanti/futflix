@@ -15,7 +15,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é FRONTEND? Trabalhando na área."}
+        videoDescription={"MOVE Responde #2"}
       />
 
       <Carousel
